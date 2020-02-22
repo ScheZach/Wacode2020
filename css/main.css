@@ -1,3 +1,11 @@
+/* This is a CSS comment */
+/* This applies the styling to the <body> HTML tag */
 body {
-    background-color: #CCCCCC;
+    /* Changes the color of the background */
+    background-color: #FDFDFD;
+}
+
+h1 {
+    /* moves the text to a specific alignment (location) */
+    text-align: center;
 }
